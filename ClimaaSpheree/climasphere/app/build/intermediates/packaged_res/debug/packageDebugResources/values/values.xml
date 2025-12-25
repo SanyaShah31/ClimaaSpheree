@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temp_units">
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+    </string-array>
+    <string-array name="wind_units">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+    <color name="background_color">#EAF4FC</color>
+    <color name="bg_dark">#0E1A2E</color>
+    <color name="bg_item">#2DD4BF</color>
+    <color name="bg_light">#E6F6F8</color>
+    <color name="black">#000000</color>
+    <color name="cardBg">#FFFFFF</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="card_bg_dark">#1E1E1E</color>
+    <color name="card_bg_light">#FFFFFF</color>
+    <color name="dark_bg">#0D1117</color>
+    <color name="dark_card">#161B22</color>
+    <color name="dark_gray">#555555</color>
+    <color name="dark_text">#E6EDF3</color>
+    <color name="dark_text_hint">#8892A0</color>
+    <color name="gradientEnd">#8AA3C1</color>
+    <color name="gradientStart">#4F6581</color>
+    <color name="light_blue">#BFDFFF</color>
+    <color name="light_gray">#DDDDDD</color>
+    <color name="md_blue_700">#0F62FE</color>
+    <color name="md_teal_300">#2DD4BF</color>
+    <color name="neavy_blue">#0A2540</color>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#616161</color>
+    <color name="sky_white">#E0F7FA</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">ClimaaSpheree</string>
+    <string name="default_web_client_id" translatable="false">1002873616905-p23erok5uebfo2jmdsmpicll6v5fnoda.apps.googleusercontent.com</string>
+    <string name="favorite_button">Toggle Favorite</string>
+    <string name="forecast_list">Weather forecast list</string>
+    <string name="gcm_defaultSenderId" translatable="false">1002873616905</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXzRahdfryx6vsFtpj-7c3CRDWn0LSSd0</string>
+    <string name="google_app_id" translatable="false">1:1002873616905:android:82e5682ac1eaf9b47996d8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXzRahdfryx6vsFtpj-7c3CRDWn0LSSd0</string>
+    <string name="google_maps_api_key">YOUR_GOOGLE_MAPS_API_KEY</string>
+    <string name="google_storage_bucket" translatable="false">weatherapp-b3c29.firebasestorage.app</string>
+    <string name="news_api_key">YOUR_NEWSAPI_KEY</string>
+    <string name="openweather_api_key">YOUR_OPENWEATHER_API_KEY</string>
+    <string name="project_id" translatable="false">weatherapp-b3c29</string>
+    <string name="weather_icon"> icon </string>
+    <style name="DashboardCardStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">120dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_search_dash</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+    <style name="Theme.ClimaaSpheree" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_blue_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        
+        <item name="android:windowBackground">@drawable/bg_app</item>   
+
+        <item name="android:statusBarColor">@color/md_blue_700</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">#555555</item>
+
+        
+        <item name="editTextColor">@android:color/black</item>
+        <item name="android:editTextColor">@android:color/black</item>
+
+
+    </style>
+</resources>
