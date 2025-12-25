@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClimaaSpheree</string>
+    <string name="forecast_list">Weather forecast list</string>
+    <string name="openweather_api_key">YOUR_OPENWEATHER_API_KEY</string>
+    <string name="google_maps_api_key">YOUR_GOOGLE_MAPS_API_KEY</string>
+    <string name="news_api_key">YOUR_NEWSAPI_KEY</string>
+    <string name="weather_icon"> icon </string>
+
+    <string name="favorite_button">Toggle Favorite</string>
+
+
+    <string-array name="temp_units">
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+    </string-array>
+
+    <string-array name="wind_units">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+
+</resources>

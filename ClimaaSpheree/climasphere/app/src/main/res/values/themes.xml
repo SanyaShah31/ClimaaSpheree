@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.ClimaaSpheree" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/md_blue_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Window + Status Bar -->
+        <item name="android:windowBackground">@drawable/bg_app</item>   <!-- changed  For light dark mode-->
+
+        <item name="android:statusBarColor">@color/md_blue_700</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- ✅ Text & Hint Colors -->
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">#555555</item>
+
+        <!-- ✅ EditText + SearchView text color fix -->
+        <item name="editTextColor">@android:color/black</item>
+        <item name="android:editTextColor">@android:color/black</item>
+
+
+    </style>
+
+</resources>
