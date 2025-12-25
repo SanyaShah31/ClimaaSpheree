@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_lottie_weather_snowy.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\lottie_weather_snowy.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_snow.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_snow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_thunder.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_thunder.png"
+    },
+    {
+        "merged": "com.example.climasphere2.app-debug-49:/drawable_ic_rain_drop.xml.flat",
+        "source": "com.example.climasphere2.app-main-51:/drawable/ic_rain_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_rainy.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_rainy.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.climasphere2.app-debug-49:/drawable_ic_humidity.xml.flat",
+        "source": "com.example.climasphere2.app-main-51:/drawable/ic_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_sunny.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_sunny.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_bg_forecast_card.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\bg_forecast_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_bg_gradient_sky_dash.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\bg_gradient_sky_dash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_lottie_weather_cloudy.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\lottie_weather_cloudy.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_fog.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_fog.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_partly_cloudy.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_partly_cloudy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_lottie_weather_sunny.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\lottie_weather_sunny.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_app_logo.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\app_logo.json"
+    },
+    {
+        "merged": "com.example.climasphere2.app-debug-49:/layout_activity_tomorrow.xml.flat",
+        "source": "com.example.climasphere2.app-main-51:/layout/activity_tomorrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_weather_card_bg_today.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\weather_card_bg_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_lottie_weather_rainy.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\lottie_weather_rainy.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\raw_lottie_weather_windy.json.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\raw\\lottie_weather_windy.json"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_cloudy.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_cloudy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_clear_night.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_clear_night.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\layout_activity_tomorrow.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\layout\\activity_tomorrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.climasphere2.app-debug-49:/drawable_ic_wind.xml.flat",
+        "source": "com.example.climasphere2.app-main-51:/drawable/ic_wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\layout_forecast_item.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\layout\\forecast_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.11.1\\com.example.climasphere2.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
