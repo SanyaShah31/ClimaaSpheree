@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_blue_700">#0F62FE</color>
+    <color name="md_teal_300">#2DD4BF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_bg">#FFFFFFFF</color>
+<!--    <color name="text_primary">#212121</color>-->
+<!--    <color name="bg_light">#E0F7FA</color>   &lt;!&ndash; Light background &ndash;&gt;-->
+<!--    <color name="bg_dark">#263238</color>    &lt;!&ndash; Dark background &ndash;&gt;-->
+<!--    <color name="text_primary">#000000</color>-->
+
+    <color name="primaryColor">#2196F3</color>
+    <color name="text_secondary">#757575</color>
+    <color name="card_bg_light">#FFFFFF</color> <!-- light white card background -->
+    <color name="card_bg_dark">#1E1E1E</color> <!-- optional dark mode card -->
+    <color name="bg_item">#2DD4BF</color>
+    <color name="black">#000000</color>
+
+    <color name="bg_light">#E6F6F8</color>        <!-- Light day background -->
+    <color name="bg_dark">#0E1A2E</color>         <!-- Dark night background -->
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#616161</color>
+    <color name="cardBg">#FFFFFF</color>
+    <color name="gradientStart">#4F6581</color>
+    <color name="gradientEnd">#8AA3C1</color>
+
+    <color name="background_color">#EAF4FC</color>
+    <color name="dark_gray">#555555</color>
+    <color name="light_gray">#DDDDDD</color>
+
+    <!-- for app theme light dark  -->
+    <color name="neavy_blue">#0A2540</color>
+    <color name="light_blue">#BFDFFF</color>
+
+
+<!--    <color name="light_blue">#A3D8FF</color>-->
+    <color name="sky_white">#E0F7FA</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="dark_bg">#0D1117</color> <!-- Deep clean blackish navy -->
+    <color name="dark_card">#161B22</color> <!-- Dashboard cards -->
+    <color name="dark_text">#E6EDF3</color>
+    <color name="dark_text_hint">#8892A0</color>
+
+
+
+
+
+</resources>
